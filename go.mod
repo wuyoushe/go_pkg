@@ -1,3 +1,3 @@
-module github.com/YouEclipse/how-to-release-go-module
+module github.com/wuyoushe/how-to-release-go-module
 
 go 1.13
